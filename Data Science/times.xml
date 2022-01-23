@@ -1,0 +1,27 @@
+<campeonato>
+	
+	<equipe id="1">
+		<nome>Gremio</nome>
+		<posicao>01</posicao>
+		<descricao>
+			Equipe de Porto Alegre
+		</descricao>
+	</equipe>
+
+	<equipe id="2">
+		<nome>Real Madrid</nome>
+		<posicao>02</posicao>
+		<descricao>
+			Equipe de Madrid
+		</descricao>
+	</equipe>
+
+	<equipe id="3">
+		<nome>Barcelona</nome>
+		<posicao>03</posicao>
+		<descricao>
+			Equipe de Barcelona
+		</descricao>
+	</equipe>
+
+</campeonato>
