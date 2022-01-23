@@ -2,7 +2,7 @@ from xml.etree import ElementTree as et
 # O comando parse do modulo XML.etree / ElementTree, "parse" FAZ A LEITURA DO ARQUIVO E GUARDA NA VARIAVEL conteudo.... Obs. Banco de dados tem que está na mesma pasta do projeto
 conteudo = et.parse("times.xml")
 
-# O comando findall server para retornar uma lista guardada no arquivo xml
+# O comando findall server para retornar a quantidade de (itens) equipes existente no banco de dados xml
 lista_equipes = conteudo.findall("equipe")
 
 # Comando de saida Numero de times que existem no banco
